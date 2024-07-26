@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Saludos, soy Jorge Lecaro 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/19h6npuS0CDj3E7-LPzwK3jUSUC4Dipgw/view?usp=drivesdk">
+<img src="https://drive.google.com/file/d/19rtV4bA1r5qB7iIGrd6_J7ycNPYIYYkj/view?usp=drivesdk">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@ProfeJorgeLecaro)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
